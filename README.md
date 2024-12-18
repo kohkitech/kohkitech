@@ -1,6 +1,6 @@
 ## Hello World 🌍🌎🌏
 
-I'm mainly working on private repositories, which means I am developing products for clients who pay for our services.
+I'm mainly working on private repositories, which means I am developing products for clients who pay for my services.
 
 I will open public repositories when I make tools or libraries while developing ✌️
 

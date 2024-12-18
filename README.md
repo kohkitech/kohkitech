@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello World 🌍🌎🌏
+
+I'm mainly working on private repositories, which means I am making things for paid customers.
+I will open public repositories when I make tools or libraries while developing ✌️
 
 <!--
 **kohkitech/kohkitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
